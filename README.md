@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Keshav-chand
 - 🌱 I’m currently learning Full stack Web development
-- 💞️ I’m looking to collaborate on X  and Insta 
-- 📫 Insta-https://www.instagram.com/k._codes/
 - 👀X-https://x.com/Keshav_codes_
 
 
