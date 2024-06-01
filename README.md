@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keshav-chand
 - 🌱 I’m currently learning Full stack Web development
-- 👀X-https://x.com/Keshav_codes_
+- 👀X-https://x.com/Keshav_codes_.
 
 
 <!---
